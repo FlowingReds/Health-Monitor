@@ -17,6 +17,7 @@ How to run:
 Open a terminal and enter: 
 
 chmod +x health-monitor.sh
+
 ./health-monitor.sh
 
 # Purpose:
