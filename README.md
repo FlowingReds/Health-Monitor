@@ -9,7 +9,7 @@ Features:
 
 - Checks disk space and uptime
 
-- Warns when usage is to high
+- Warns when usage is too high
 
 - Saves system checks to a log file
 
