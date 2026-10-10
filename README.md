@@ -24,7 +24,7 @@ chmod +x health-monitor.sh
 
 I decided to go with this for my project because I wanted to make something that would actually be useful, and something that I could use.
 
-##Resources: 
+# Resources: 
 
 Here are the resources I used to help me learn more about scripting, and how I made the script here
 
