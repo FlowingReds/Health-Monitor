@@ -3,7 +3,7 @@ Linux System Health Monitor
 
 This is a Bash script I made to check system information on Linux.
 
-##Features:
+# Features:
 
 - Shows CPU and RAM Usage
 
@@ -19,7 +19,7 @@ Open a terminal and enter:
 chmod +x health-monitor.sh
 ./health-monitor.sh
 
-##Purpose:
+# Purpose:
 
 I decided to go with this for my project because I wanted to make something that would actually be useful, and something that I could use.
 
