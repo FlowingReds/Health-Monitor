@@ -9,8 +9,4 @@ Features:
 
 - Checks disk space and uptime
 
-- Warns when usage is too high
-
 - Saves system checks to a log file
-
-- Shows the top 5 processes using memory
