@@ -30,4 +30,4 @@ When i first tried running the script, I got an error because I made some mistak
 
 ## What I Learned
 
-I learned more about how to use Bash commands. I haven't really used Bash that much before, but I learned that it can be useful for creating simple scripts to check system information, or do others tasks on Linux.
+I learned more about how to use Bash commands. I haven't really used Bash that much before, but I learned that it can be useful for creating simple scripts to check system information, or do other tasks on Linux.
