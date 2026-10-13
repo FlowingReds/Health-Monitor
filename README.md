@@ -26,7 +26,7 @@ I decided to go with this for my project because I wanted to make something that
 
 # Resources: 
 
-Here are the resources I used to help me learn more about scripting, and how I made the script here
+Here are the resources I used to help me learn more about scripting.
 
 https://youtu.be/3aiBn9M-ZTg
 
